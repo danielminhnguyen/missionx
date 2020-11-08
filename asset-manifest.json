@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/missionx/static/css/main.a2819352.chunk.css",
-    "main.js": "/missionx/static/js/main.e85e683b.chunk.js",
-    "main.js.map": "/missionx/static/js/main.e85e683b.chunk.js.map",
-    "runtime-main.js": "/missionx/static/js/runtime-main.42901f03.js",
-    "runtime-main.js.map": "/missionx/static/js/runtime-main.42901f03.js.map",
-    "static/js/2.054012fd.chunk.js": "/missionx/static/js/2.054012fd.chunk.js",
-    "static/js/2.054012fd.chunk.js.map": "/missionx/static/js/2.054012fd.chunk.js.map",
-    "static/js/3.19524949.chunk.js": "/missionx/static/js/3.19524949.chunk.js",
-    "static/js/3.19524949.chunk.js.map": "/missionx/static/js/3.19524949.chunk.js.map",
+    "main.css": "/missionx/static/css/main.e03a3e60.chunk.css",
+    "main.js": "/missionx/static/js/main.bf05be9d.chunk.js",
+    "main.js.map": "/missionx/static/js/main.bf05be9d.chunk.js.map",
+    "runtime-main.js": "/missionx/static/js/runtime-main.dd93e21c.js",
+    "runtime-main.js.map": "/missionx/static/js/runtime-main.dd93e21c.js.map",
+    "static/js/2.0e321b68.chunk.js": "/missionx/static/js/2.0e321b68.chunk.js",
+    "static/js/2.0e321b68.chunk.js.map": "/missionx/static/js/2.0e321b68.chunk.js.map",
+    "static/js/3.e4abd70e.chunk.js": "/missionx/static/js/3.e4abd70e.chunk.js",
+    "static/js/3.e4abd70e.chunk.js.map": "/missionx/static/js/3.e4abd70e.chunk.js.map",
     "index.html": "/missionx/index.html",
-    "static/css/main.a2819352.chunk.css.map": "/missionx/static/css/main.a2819352.chunk.css.map",
-    "static/js/2.054012fd.chunk.js.LICENSE.txt": "/missionx/static/js/2.054012fd.chunk.js.LICENSE.txt"
+    "static/css/main.e03a3e60.chunk.css.map": "/missionx/static/css/main.e03a3e60.chunk.css.map",
+    "static/js/2.0e321b68.chunk.js.LICENSE.txt": "/missionx/static/js/2.0e321b68.chunk.js.LICENSE.txt",
+    "static/media/home-sectionone-slideone.png": "/missionx/static/media/home-sectionone-slideone.13135782.png",
+    "static/media/modal-student.3724ade5.png": "/missionx/static/media/modal-student.3724ade5.png",
+    "static/media/modal-teacher.cca51a9d.png": "/missionx/static/media/modal-teacher.cca51a9d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.42901f03.js",
-    "static/js/2.054012fd.chunk.js",
-    "static/css/main.a2819352.chunk.css",
-    "static/js/main.e85e683b.chunk.js"
+    "static/js/runtime-main.dd93e21c.js",
+    "static/js/2.0e321b68.chunk.js",
+    "static/css/main.e03a3e60.chunk.css",
+    "static/js/main.bf05be9d.chunk.js"
   ]
 }
