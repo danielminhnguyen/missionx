@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.dd41dfd0.chunk.css",
+    "main.css": "./static/css/main.c2213b86.chunk.css",
     "main.js": "./static/js/main.24d8cd88.chunk.js",
     "main.js.map": "./static/js/main.24d8cd88.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.39e7c791.js",
@@ -10,7 +10,7 @@
     "static/js/3.e4abd70e.chunk.js": "./static/js/3.e4abd70e.chunk.js",
     "static/js/3.e4abd70e.chunk.js.map": "./static/js/3.e4abd70e.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.dd41dfd0.chunk.css.map": "./static/css/main.dd41dfd0.chunk.css.map",
+    "static/css/main.c2213b86.chunk.css.map": "./static/css/main.c2213b86.chunk.css.map",
     "static/js/2.a09cc7d3.chunk.js.LICENSE.txt": "./static/js/2.a09cc7d3.chunk.js.LICENSE.txt",
     "static/media/home-sectionfour.17cf46b6.png": "./static/media/home-sectionfour.17cf46b6.png",
     "static/media/modal-student.3724ade5.png": "./static/media/modal-student.3724ade5.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.39e7c791.js",
     "static/js/2.a09cc7d3.chunk.js",
-    "static/css/main.dd41dfd0.chunk.css",
+    "static/css/main.c2213b86.chunk.css",
     "static/js/main.24d8cd88.chunk.js"
   ]
 }
