@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/missionx/static/css/main.a1b00ee0.chunk.css",
-    "main.js": "/missionx/static/js/main.677cdf7b.chunk.js",
-    "main.js.map": "/missionx/static/js/main.677cdf7b.chunk.js.map",
+    "main.css": "/missionx/static/css/main.c2c2bbe0.chunk.css",
+    "main.js": "/missionx/static/js/main.9e2ee0dc.chunk.js",
+    "main.js.map": "/missionx/static/js/main.9e2ee0dc.chunk.js.map",
     "runtime-main.js": "/missionx/static/js/runtime-main.dd93e21c.js",
     "runtime-main.js.map": "/missionx/static/js/runtime-main.dd93e21c.js.map",
     "static/js/2.a09cc7d3.chunk.js": "/missionx/static/js/2.a09cc7d3.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.e4abd70e.chunk.js": "/missionx/static/js/3.e4abd70e.chunk.js",
     "static/js/3.e4abd70e.chunk.js.map": "/missionx/static/js/3.e4abd70e.chunk.js.map",
     "index.html": "/missionx/index.html",
-    "static/css/main.a1b00ee0.chunk.css.map": "/missionx/static/css/main.a1b00ee0.chunk.css.map",
+    "static/css/main.c2c2bbe0.chunk.css.map": "/missionx/static/css/main.c2c2bbe0.chunk.css.map",
     "static/js/2.a09cc7d3.chunk.js.LICENSE.txt": "/missionx/static/js/2.a09cc7d3.chunk.js.LICENSE.txt",
     "static/media/modal-student.3724ade5.png": "/missionx/static/media/modal-student.3724ade5.png",
     "static/media/modal-teacher.cca51a9d.png": "/missionx/static/media/modal-teacher.cca51a9d.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.dd93e21c.js",
     "static/js/2.a09cc7d3.chunk.js",
-    "static/css/main.a1b00ee0.chunk.css",
-    "static/js/main.677cdf7b.chunk.js"
+    "static/css/main.c2c2bbe0.chunk.css",
+    "static/js/main.9e2ee0dc.chunk.js"
   ]
 }
