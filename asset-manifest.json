@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/missionx/static/css/main.26033856.chunk.css",
-    "main.js": "/missionx/static/js/main.aee6e028.chunk.js",
-    "main.js.map": "/missionx/static/js/main.aee6e028.chunk.js.map",
+    "main.css": "/missionx/static/css/main.7b22db81.chunk.css",
+    "main.js": "/missionx/static/js/main.893a5926.chunk.js",
+    "main.js.map": "/missionx/static/js/main.893a5926.chunk.js.map",
     "runtime-main.js": "/missionx/static/js/runtime-main.9e1829b3.js",
     "runtime-main.js.map": "/missionx/static/js/runtime-main.9e1829b3.js.map",
     "static/js/2.0d923781.chunk.js": "/missionx/static/js/2.0d923781.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.c94fd08b.chunk.js": "/missionx/static/js/3.c94fd08b.chunk.js",
     "static/js/3.c94fd08b.chunk.js.map": "/missionx/static/js/3.c94fd08b.chunk.js.map",
     "index.html": "/missionx/index.html",
-    "static/css/main.26033856.chunk.css.map": "/missionx/static/css/main.26033856.chunk.css.map",
+    "static/css/main.7b22db81.chunk.css.map": "/missionx/static/css/main.7b22db81.chunk.css.map",
     "static/js/2.0d923781.chunk.js.LICENSE.txt": "/missionx/static/js/2.0d923781.chunk.js.LICENSE.txt",
     "static/media/aiden-project.90934d89.png": "/missionx/static/media/aiden-project.90934d89.png",
     "static/media/home-header.9c85c296.png": "/missionx/static/media/home-header.9c85c296.png",
@@ -28,15 +28,17 @@
     "static/media/objective-block-1-0.335c06bf.png": "/missionx/static/media/objective-block-1-0.335c06bf.png",
     "static/media/objective-block-2-0.8c97a18f.png": "/missionx/static/media/objective-block-2-0.8c97a18f.png",
     "static/media/objective-block-3-0.5a88cbc0.png": "/missionx/static/media/objective-block-3-0.5a88cbc0.png",
+    "static/media/project-1.38668eae.png": "/missionx/static/media/project-1.38668eae.png",
     "static/media/student-instruction.098bee14.png": "/missionx/static/media/student-instruction.098bee14.png",
     "static/media/student-profile.ade59cc8.png": "/missionx/static/media/student-profile.ade59cc8.png",
     "static/media/student-submit-project-1.8f07aa20.png": "/missionx/static/media/student-submit-project-1.8f07aa20.png",
-    "static/media/student-submit-project-2.7ff30f17.png": "/missionx/static/media/student-submit-project-2.7ff30f17.png"
+    "static/media/student-submit-project-2.7ff30f17.png": "/missionx/static/media/student-submit-project-2.7ff30f17.png",
+    "static/media/teacher-nav-profilephoto.9d6944ee.png": "/missionx/static/media/teacher-nav-profilephoto.9d6944ee.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9e1829b3.js",
     "static/js/2.0d923781.chunk.js",
-    "static/css/main.26033856.chunk.css",
-    "static/js/main.aee6e028.chunk.js"
+    "static/css/main.7b22db81.chunk.css",
+    "static/js/main.893a5926.chunk.js"
   ]
 }
